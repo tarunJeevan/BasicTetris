@@ -1,0 +1,5 @@
+# Ignore VS temp files
+/.vs 
+
+# Ignore build output
+/build
